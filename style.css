@@ -1,0 +1,42 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #1a1a1a; /* Dark background color */
+    color: #ffffff; /* Light text color */
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #2d2d2d; /* Slightly lighter background color */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Darker box shadow */
+    border-radius: 10px;
+    margin-top: 20px;
+  }
+  
+  header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  article {
+    border: 1px solid #444; /* Darker border */
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+  }
+  
+  article h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    color: #5aafc9; /* Orange header color */
+  }
+  
+  footer {
+    text-align: center;
+    margin-top: 20px;
+    color: #888; /* Lighter text color for footer */
+  }
+  
